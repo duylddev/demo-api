@@ -1,9 +1,30 @@
 [
   {
     "title": "The Shawshank Redemption",
+    "allocation": "567462",
+    "symbol": "BINANCE_SPOT_BTC_USDT",
+    "pnl": "6783.3434512",
+    "previous_pnl": "1000.45345255"
+  },
+  {
+    "title": "MACD Strategy",
     "allocation": "504560",
     "symbol": "BINANCE_SPOT_BTC_USDT",
     "pnl": "1435.00000000",
+    "previous_pnl": "1000.45345255"
+  },
+  {
+    "title": "The Shawshank Redemption The Shawshank Redemption The Shawshank Redemption The Shawshank Redemption",
+    "allocation": "678454",
+    "symbol": "BINANCE_SPOT_BTC_USDT",
+    "pnl": "5627.34325254",
+    "previous_pnl": "1000.45345255"
+  },
+  {
+    "title": "The Shawshank Redemption 1",
+    "allocation": "534635",
+    "symbol": "BINANCE_SPOT_BTC_USDT",
+    "pnl": "5236.34234",
     "previous_pnl": "1000.45345255"
   }
 ]
